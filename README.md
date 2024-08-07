@@ -1,2 +1,2 @@
-# DURI
-두리 공구 옵선 HTML
+# DOGADO
+도가도 공구 옵선 HTML
